@@ -1,0 +1,10 @@
+{
+	"Id": "SelfLappingBrakes",
+	"Version": "1.0.0",
+	"DisplayName": "Self-Lapping Brakes",
+	"Author": "Gamearoo",
+	"EntryMethod": "SelfLappingBrakes.Main.Load",
+	"AssemblyName": "SelfLappingBrakes.dll",
+	"Homepage": "https://www.nexusmods.com/derailvalley/mods/1666",
+	"ManagerVersion": "0.27.3"
+}
